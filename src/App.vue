@@ -24,17 +24,17 @@ export default {
 </script>
 
 <style lang="less" scoped>
-#wrap {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  box-sizing: border-box;
-  .video-box {
-    position: absolute;
-    width: 100%;
-    height: 80%;
-  }
-}
+// #wrap {
+//   width: 100%;
+//   height: 100%;
+//   position: absolute;
+//   top: 0;
+//   left: 0;
+//   box-sizing: border-box;
+//   .video-box {
+//     position: absolute;
+//     width: 100%;
+//     height: 100%;
+//   }
+// }
 </style>
