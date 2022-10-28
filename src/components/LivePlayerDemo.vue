@@ -1,7 +1,6 @@
 <template>
   <div id="videoWrap">
     <LivePlayer
-      ref="livePlayer"
       :videoUrl="videoUrl"
       fluent
       autoplay
